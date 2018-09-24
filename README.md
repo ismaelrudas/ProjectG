@@ -1,3 +1,3 @@
 # ProjectG
-To tech basics git 
-It's a test
+It's a test Git 
+
